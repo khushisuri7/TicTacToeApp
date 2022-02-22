@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="grid">TODO</string>
+    <string name="tictactoe">TODO</string>
+
+    <string name="string_grid" />
+    <string name="string_string_grid">1</string>
+    <string name="string_string_string_grid">grid</string>
+    <string name="status">status</string>
+    <string name="play">PLAY</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
